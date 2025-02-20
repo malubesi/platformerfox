@@ -1,0 +1,32 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1740076734
+ALYiiE.png::CompressedTexture2D::6321299963320131575::1740075127::1740075127::1::::<><>::
+game.gd::GDScript::-1::1739562405::0::1::::<>Node2D<>::
+game.tscn::PackedScene::595415926835529::1740075851::0::1::::<><>::uid://c8031x3ikoaox::::res://Recursos/Terrenos/Terreno-Padrao-Tileset.png<>res://game.gd<>uid://drgb2miwqm1b5::::res://pixil-frame-0.png<>uid://bfdl62ssp8y2v::::res://pixil-frame-0 (9).png<>uid://eow4i338n0kg::::res://momentz/pixil-frame-0 (3).png<>uid://ck3md40spuxmk::::res://momentz/Momentz.otf<>uid://btxxrm3s8dfye::::res://cristais(obstaculos).tscn
+icon.svg::CompressedTexture2D::3184934100061267308::1739562405::1740069219::1::::<><>::
+label.gd::GDScript::-1::1739562405::0::1::::<>Label<>::
+pixil-frame-0 (4).png::CompressedTexture2D::8337362548749898351::1740071853::1740071853::1::::<><>::
+pixil-frame-0 (6).png::CompressedTexture2D::887218017878449512::1740071791::1740071791::1::::<><>::
+pixil-frame-0 (9).png::CompressedTexture2D::2744282728453066947::1740075334::1740075334::1::::<><>::
+pixil-frame-0.png::CompressedTexture2D::8364968236538510536::1739897740::1740069219::1::::<><>::
+pixilart-sprite.png::CompressedTexture2D::8135014467174282997::1740076734::1740076734::1::::<><>::
+player.gd::GDScript::-1::1739899824::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::1480466529014854535::1739906399::0::1::::<><>::res://player.gd<>uid://cic1ljhq72l6s::::res://Recursos/Personagens/Foxy/Spritesheet-Foxy.png
+README.md::TextFile::-1::1739562405::0::1::::<><>::
+cristais(obstaculos).tscn::PackedScene::3768916924885889712::1740075852::0::1::::<><>::uid://dq1xe4nm600at::::res://pixil-frame-0 (4).png<>res://cristais(obstaculos).gd
+cristais(obstaculos).gd::GDScript::-1::1740075472::0::1::::<>Area2D<>::
+::res://candy_gum/::1740069219
+CandyGumDemoRegular.ttf::FontFile::7781023900490811185::1739900374::1740069219::1::::<><>::
+DEMO - PERSONAL USE ONLY - RaisProject.txt::TextFile::-1::1739900374::0::1::::<><>::
+::res://momentz/::1740069220
+Momentz.jpg::CompressedTexture2D::3752542540863846872::1739900399::1740069220::1::::<><>::
+Momentz.otf::FontFile::5533267904811072270::1739900399::1740069219::1::::<><>::
+Momentz.ttf::FontFile::4802315400648727206::1739900399::1740069219::1::::<><>::
+More Info.txt::TextFile::-1::1739900399::0::1::::<><>::
+pixil-frame-0 (3).png::CompressedTexture2D::311044689731226550::1739903587::1740069219::1::::<><>::
+::res://Recursos/::1739562405
+::res://Recursos/Personagens/::1739562405
+::res://Recursos/Personagens/Foxy/::1740069219
+Spritesheet-Foxy.png::CompressedTexture2D::5340079641838049396::1739562405::1740069219::1::::<><>::
+::res://Recursos/Terrenos/::1740069219
+Terreno-Padrao-Tileset.png::CompressedTexture2D::7142430409400727939::1739562405::1740069219::1::::<><>::
